@@ -28,3 +28,4 @@ Baixe o `PDF` abaixo para verificar quais foram as demandas da prova. <br>
 # INFORMAÇÕES
 * Prova do Estado aplicada no curso: Desenvolvimento de Sistemas (SENAI)
 * Duração da prova: 4 horas
+* Prova Offline
